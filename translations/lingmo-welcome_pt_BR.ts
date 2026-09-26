@@ -117,7 +117,7 @@
     <message>
         <location filename="../qml/EffectsPage.qml" line="116"/>
         <source>Alt+Tab page flip</source>
-        <translation>Alt+Tab Folhear</translation>
+        <translation>Folhear páginas com Alt+Tab</translation>
     </message>
     <message>
         <location filename="../qml/EffectsPage.qml" line="117"/>
