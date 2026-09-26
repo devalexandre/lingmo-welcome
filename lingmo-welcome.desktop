@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Name=Welcome
+Name[pt_BR]=Boas-vindas
+GenericName=Welcome Tour
+GenericName[pt_BR]=Tour de boas-vindas
+Comment=Set up the look, wallpaper and effects of your desktop
+Comment[pt_BR]=Configure a aparência, o papel de parede e os efeitos da sua área de trabalho
+Exec=lingmo-welcome
+Icon=lingmo-welcome
+Terminal=false
+Categories=System;Settings;
+Keywords=welcome;tour;first;setup;getting started;
+Keywords[pt_BR]=boas-vindas;bem-vindo;tour;primeiros passos;configurar;
+StartupNotify=true

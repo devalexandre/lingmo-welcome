@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/Main.qml</file>
+        <file>qml/HeroPage.qml</file>
+        <file>qml/AppearancePage.qml</file>
+        <file>qml/WallpaperPage.qml</file>
+        <file>qml/EffectsPage.qml</file>
+        <file>qml/ShortcutsPage.qml</file>
+        <file>qml/DonePage.qml</file>
+        <file>qml/StepPage.qml</file>
+        <file>qml/Card.qml</file>
+        <file>qml/WelcomeButton.qml</file>
+        <file>qml/RoundedImage.qml</file>
+        <file>qml/ThemePreview.qml</file>
+        <file>qml/KeyCap.qml</file>
+        <file>images/lingmo-logo.png</file>
+        <file>images/lingmo-logo-white.png</file>
+    </qresource>
+</RCC>

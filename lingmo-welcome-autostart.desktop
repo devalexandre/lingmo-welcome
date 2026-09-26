@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Welcome
+Name[pt_BR]=Boas-vindas
+Comment=Welcome tour shown on the first login
+Comment[pt_BR]=Tour de boas-vindas exibido no primeiro login
+Exec=lingmo-welcome --first-run
+Icon=lingmo-welcome
+OnlyShowIn=Lingmo;
+NoDisplay=true
